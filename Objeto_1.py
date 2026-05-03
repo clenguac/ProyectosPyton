@@ -1,0 +1,1 @@
+print("Mi primer objeto en Python")
