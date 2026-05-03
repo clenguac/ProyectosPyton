@@ -96,3 +96,5 @@ print(f"¿'azul' está en la lista? {'azul' in colores}")
 print(f"¿'amarillo' está en la lista? {'amarillo' in colores}")
 
 print("\n=== FIN DEL PROGRAMA ===")
+
+print("¡Gracias por aprender sobre listas en Python!")
