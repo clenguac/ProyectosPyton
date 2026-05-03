@@ -96,5 +96,9 @@ print(f"¿'azul' está en la lista? {'azul' in colores}")
 print(f"¿'amarillo' está en la lista? {'amarillo' in colores}")
 
 print("\n=== FIN DEL PROGRAMA ===")
+<<<<<<< Updated upstream
 
 print("¡Gracias por aprender sobre listas en Python!")
+=======
+print("Este programa ha demostrado las principales funciones de listas en Python.")
+>>>>>>> Stashed changes
